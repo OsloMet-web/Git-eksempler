@@ -5,3 +5,4 @@ git status - Statusen til git
 git add - Legg til filer i "indeksen"
 git commit - Forteller git av vi skal huske alle disse filene.
 git log - Viser en log over tidligere commits.
+git log --graph - Viser en graf over tidligere commits. Se kul graf senere.
