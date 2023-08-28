@@ -3,3 +3,4 @@ Kommandoer vi har lært:
 git init - Setter opp en ny gitmappe
 git status - Statusen til git
 git add - Legg til filer i "indeksen"
+git commit - Forteller git av vi skal huske alle disse filene.
