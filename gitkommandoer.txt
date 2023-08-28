@@ -5,3 +5,6 @@ git status - Statusen til git
 git add - Legg til filer i "indeksen"
 git commit - Forteller git av vi skal huske alle disse filene.
 git log - Viser en log over tidligere commits.
+git branch [navn] - Lager en ny branch.
+git switch [navn] - Bytter til en branch.
+git switch -c [navn] - Lager og bytter til en branch.
