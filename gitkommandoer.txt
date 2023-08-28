@@ -11,3 +11,4 @@ git switch [navn] - Bytter til en branch.
 git switch -c [navn] - Lager og bytter til en branch.
 git merge - Slå sammen en annen branch med nåværende.
 git remote [navn] [addresse] - Lagrer en remote med gitt navn og gitt (typisk-github) addresse.
+git push [remote] [branch] - Sender info til serveren gitt ved "remote"
