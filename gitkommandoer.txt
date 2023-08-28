@@ -9,3 +9,4 @@ git log --graph - Viser en graf over tidligere commits. Se kul graf senere.
 git branch [navn] - Lager en ny branch.
 git switch [navn] - Bytter til en branch.
 git switch -c [navn] - Lager og bytter til en branch.
+git merge - Slå sammen en annen branch med nåværende.
