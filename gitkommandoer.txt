@@ -1,0 +1,5 @@
+Kommandoer vi har lært:
+
+git init - Setter opp en ny gitmappe
+git status - Statusen til git
+git add - Legg til filer i "indeksen"
